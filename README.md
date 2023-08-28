@@ -11,8 +11,8 @@
 <p align="center">Developer under development. 🤠🏆 <br><br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeboufleuher&show_icons=true&locale=en&layout=compact&theme=darcula" alt="felipeboufleuher" /></p>
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeBoufleuher&theme=darcula" />
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeboufleuher&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipeboufleuher"/></p>
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeBoufleuher&theme=dark" />
 </div>
 
 <br><br>
