@@ -5,14 +5,14 @@
   </div>
 </figure>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=40&duration=3000&pause=500&color=F76609&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Felipe;A+System+Development+Student;+and+Support+Analyst%2C+from+Brazil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=40&duration=3000&pause=500&color=##900C3F&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Felipe;A+System+Development+Student;+and+Support+Analyst%2C+from+Brazil.)](https://git.io/typing-svg)
 
 
 <p align="center">Developer under development. 🤠🏆 <br><br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeboufleuher&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipeboufleuher"/></p>
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeBoufleuher&theme=dark" />
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeboufleuher&show_icons=true&locale=en&layout=compact&theme=radical" alt="felipeboufleuher"/></p>
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeBoufleuher&theme=radical" />
 </div>
 
 <br><br>
