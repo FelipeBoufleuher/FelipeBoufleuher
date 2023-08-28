@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
+<img width=100% src="[[[https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/detfftq-03e74626-78fb-446e-b7bc-dd99d5f6b63e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV0ZmZ0cS0wM2U3NDYyNi03OGZiLTQ0NmUtYjdiYy1kZDk5ZDVmNmI2M2UuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2qCaplUU0d3jxGhF3nev9YPmIbzjBdm0WHSrD7Aaz6Y)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/detfftq-03e74626-78fb-446e-b7bc-dd99d5f6b63e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV0ZmZ0cS0wM2U3NDYyNi03OGZiLTQ0NmUtYjdiYy1kZDk5ZDVmNmI2M2UuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2qCaplUU0d3jxGhF3nev9YPmIbzjBdm0WHSrD7Aaz6Y)](https://preview.redd.it/t6zbbhh1nmv71.gif?format=mp4&s=5b79ebedb865e12b48a03f7c9e6c81703f467868)"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=40&duration=3000&pause=500&color=F76609&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Felipe;A+System+Development+Student;+and+Support+Analyst%2C+from+Brazil.)](https://git.io/typing-svg)
 
@@ -18,10 +18,7 @@
 
 #### Studying in this moment:
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-D00000?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
+<p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 
 
 
