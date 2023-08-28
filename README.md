@@ -1,10 +1,9 @@
 <figure>
   <img width=110% src="detfftq-03e74626-78fb-446e-b7bc-dd99d5f6b63e.gif"/>
-  <figcaption><a href="https://www.deviantart.com/kirokaze/gallery" align="right"> Artist: Kirokaze</a></figcaption>
+  <div align="right">
+    <figcaption> <a href="https://www.deviantart.com/kirokaze/gallery" text-align="right"> Artist: Kirokaze</a> </figcaption>
+  </div>
 </figure>
-
-
-<img width=110% src="detfftq-03e74626-78fb-446e-b7bc-dd99d5f6b63e.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=40&duration=3000&pause=500&color=F76609&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Felipe;A+System+Development+Student;+and+Support+Analyst%2C+from+Brazil.)](https://git.io/typing-svg)
 
@@ -12,7 +11,7 @@
 <p align="center">Developer under development. 🤠🏆 <br><br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeBoufleuher&theme=radical" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeBoufleuher&theme=radical" />
 </div>
 
 <br><br>
